@@ -16,5 +16,15 @@ namespace MissionControlModuleCs
 		{
 			InitializeComponent();
 		}
+
+		private void btnLaunch_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void btnSetAltitude_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

@@ -34,7 +34,7 @@
 			// 
 			// btnLaunch
 			// 
-			this.btnLaunch.Location = new System.Drawing.Point(164, 96);
+			this.btnLaunch.Location = new System.Drawing.Point(12, 12);
 			this.btnLaunch.Name = "btnLaunch";
 			this.btnLaunch.Size = new System.Drawing.Size(75, 23);
 			this.btnLaunch.TabIndex = 0;
@@ -44,7 +44,7 @@
 			// 
 			// btnSetAltitude
 			// 
-			this.btnSetAltitude.Location = new System.Drawing.Point(270, 160);
+			this.btnSetAltitude.Location = new System.Drawing.Point(126, 12);
 			this.btnSetAltitude.Name = "btnSetAltitude";
 			this.btnSetAltitude.Size = new System.Drawing.Size(75, 23);
 			this.btnSetAltitude.TabIndex = 1;
